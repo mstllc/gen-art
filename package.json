@@ -1,0 +1,17 @@
+{
+  "name": "gen-art",
+  "version": "1.0.0",
+  "description": "Printable art stuff from code.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorsonmscott/gen-art.git"
+  },
+  "author": "Max Thorson <max@mst.mn>",
+  "homepage": "https://github.com/thorsonmscott/gen-art",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "canvas-sketch": "^0.7.1"
+  }
+}
